@@ -12,5 +12,5 @@ Instalar un emulador de IOs, un emulador de Android u tener un equipo conectado
 
 ir a la carpeta indicada y correr "npx react-native run-android" or "npx react-native run-ios" segun corresponda (linux) </br>
 
-
+la conchalalora
 
